@@ -66,14 +66,14 @@ function NavBar() {
                 <Navbar.Collapse id="responsive-navbar-nav">
                     <Nav className="alignLeft" defaultActiveKey="#home">
                         <Nav.Item>
-                            <Nav.Link as={Link} to="/" onClick={() => updateExpanded(false)}>
+                            <Nav.Link as={Link} to="/Portfolio-reactJS-animated-website/" onClick={() => updateExpanded(false)}>
                                 <AiOutlineHome style={{ marginBottom: "2px" }} /> Home
                             </Nav.Link>
                         </Nav.Item>
                         <Nav.Item>
                             <Nav.Link
                                 as={Link}
-                                to="/about"
+                                to="/Portfolio-reactJS-animated-website/about"
                                 onClick={() => updateExpanded(false)}
                             >
                                 <AiOutlineUser style={{ marginBottom: "2px" }} /> About
@@ -82,7 +82,7 @@ function NavBar() {
                         <Nav.Item>
                             <Nav.Link
                                 as={Link}
-                                to="/projects"
+                                to="/Portfolio-reactJS-animated-website/projects"
                                 onClick={() => updateExpanded(false)}
                             >
                                 <AiOutlineFundProjectionScreen
@@ -94,7 +94,7 @@ function NavBar() {
                         <Nav.Item>
                             <Nav.Link
                                 as={Link}
-                                to="/contact"
+                                to="/Portfolio-reactJS-animated-website/contact"
                                 onClick={() => updateExpanded(false)}
                             >
                                 <CgFileDocument style={{ marginBottom: "2px" }} /> Contact

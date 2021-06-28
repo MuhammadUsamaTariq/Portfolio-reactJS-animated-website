@@ -21,18 +21,18 @@ function App() {
 
         <Switch>
 
-          <Route exact path="/">
+          <Route exact path="/Portfolio-reactJS-animated-website/">
             <Introduction />
           </Route>
-          <Route path="/about">
+          <Route path="/Portfolio-reactJS-animated-website/about">
          
               <About />
             
           </Route>
-          <Route path="/projects">
+          <Route path="/Portfolio-reactJS-animated-website/projects">
               <Projects/>
           </Route>
-          <Route path="/contact">
+          <Route path="/Portfolio-reactJS-animated-website/contact">
               <Contact/>
           </Route>
         </Switch>
