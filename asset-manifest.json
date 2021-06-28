@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/Portfolio-reactJS-animated-website/static/css/main.a8ee4d72.chunk.css",
+    "main.js": "/Portfolio-reactJS-animated-website/static/js/main.a510814f.chunk.js",
+    "main.js.map": "/Portfolio-reactJS-animated-website/static/js/main.a510814f.chunk.js.map",
+    "runtime-main.js": "/Portfolio-reactJS-animated-website/static/js/runtime-main.5dd8279a.js",
+    "runtime-main.js.map": "/Portfolio-reactJS-animated-website/static/js/runtime-main.5dd8279a.js.map",
+    "static/js/2.7e1fbe27.chunk.js": "/Portfolio-reactJS-animated-website/static/js/2.7e1fbe27.chunk.js",
+    "static/js/2.7e1fbe27.chunk.js.map": "/Portfolio-reactJS-animated-website/static/js/2.7e1fbe27.chunk.js.map",
+    "static/js/3.1ad41e0d.chunk.js": "/Portfolio-reactJS-animated-website/static/js/3.1ad41e0d.chunk.js",
+    "static/js/3.1ad41e0d.chunk.js.map": "/Portfolio-reactJS-animated-website/static/js/3.1ad41e0d.chunk.js.map",
+    "index.html": "/Portfolio-reactJS-animated-website/index.html",
+    "static/css/main.a8ee4d72.chunk.css.map": "/Portfolio-reactJS-animated-website/static/css/main.a8ee4d72.chunk.css.map",
+    "static/js/2.7e1fbe27.chunk.js.LICENSE.txt": "/Portfolio-reactJS-animated-website/static/js/2.7e1fbe27.chunk.js.LICENSE.txt",
+    "static/media/animatedWebsite.4cb4b981.PNG": "/Portfolio-reactJS-animated-website/static/media/animatedWebsite.4cb4b981.PNG",
+    "static/media/covid19Tracker.3b951a1f.PNG": "/Portfolio-reactJS-animated-website/static/media/covid19Tracker.3b951a1f.PNG",
+    "static/media/expenseTracker.1b6b1968.PNG": "/Portfolio-reactJS-animated-website/static/media/expenseTracker.1b6b1968.PNG",
+    "static/media/home-main.541f8179.svg": "/Portfolio-reactJS-animated-website/static/media/home-main.541f8179.svg",
+    "static/media/logo.265ea139.png": "/Portfolio-reactJS-animated-website/static/media/logo.265ea139.png",
+    "static/media/redQueenRace.71599ec6.PNG": "/Portfolio-reactJS-animated-website/static/media/redQueenRace.71599ec6.PNG",
+    "static/media/shoesStoreReactRouter.768a6d57.PNG": "/Portfolio-reactJS-animated-website/static/media/shoesStoreReactRouter.768a6d57.PNG"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5dd8279a.js",
+    "static/js/2.7e1fbe27.chunk.js",
+    "static/css/main.a8ee4d72.chunk.css",
+    "static/js/main.a510814f.chunk.js"
+  ]
+}
