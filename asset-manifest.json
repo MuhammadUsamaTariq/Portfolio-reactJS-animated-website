@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Portfolio-reactJS-animated-website/static/css/main.a8ee4d72.chunk.css",
+    "main.css": "/Portfolio-reactJS-animated-website/static/css/main.6373f04e.chunk.css",
     "main.js": "/Portfolio-reactJS-animated-website/static/js/main.1a279076.chunk.js",
     "main.js.map": "/Portfolio-reactJS-animated-website/static/js/main.1a279076.chunk.js.map",
     "runtime-main.js": "/Portfolio-reactJS-animated-website/static/js/runtime-main.5dd8279a.js",
@@ -10,7 +10,7 @@
     "static/js/3.1ad41e0d.chunk.js": "/Portfolio-reactJS-animated-website/static/js/3.1ad41e0d.chunk.js",
     "static/js/3.1ad41e0d.chunk.js.map": "/Portfolio-reactJS-animated-website/static/js/3.1ad41e0d.chunk.js.map",
     "index.html": "/Portfolio-reactJS-animated-website/index.html",
-    "static/css/main.a8ee4d72.chunk.css.map": "/Portfolio-reactJS-animated-website/static/css/main.a8ee4d72.chunk.css.map",
+    "static/css/main.6373f04e.chunk.css.map": "/Portfolio-reactJS-animated-website/static/css/main.6373f04e.chunk.css.map",
     "static/js/2.7e1fbe27.chunk.js.LICENSE.txt": "/Portfolio-reactJS-animated-website/static/js/2.7e1fbe27.chunk.js.LICENSE.txt",
     "static/media/animatedWebsite.4cb4b981.PNG": "/Portfolio-reactJS-animated-website/static/media/animatedWebsite.4cb4b981.PNG",
     "static/media/covid19Tracker.3b951a1f.PNG": "/Portfolio-reactJS-animated-website/static/media/covid19Tracker.3b951a1f.PNG",
@@ -23,7 +23,7 @@
   "entrypoints": [
     "static/js/runtime-main.5dd8279a.js",
     "static/js/2.7e1fbe27.chunk.js",
-    "static/css/main.a8ee4d72.chunk.css",
+    "static/css/main.6373f04e.chunk.css",
     "static/js/main.1a279076.chunk.js"
   ]
 }
