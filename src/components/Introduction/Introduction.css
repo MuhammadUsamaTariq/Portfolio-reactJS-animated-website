@@ -61,7 +61,10 @@
     margin-top: 30px;
     overflow-y: auto;
   }
-  
+  .wave {
+    transform-origin: 70% 70%; /* Pivot around the bottom-left palm */
+    display: inline-block;
+  }
   .intro-single .intro-title {
     text-transform: uppercase;
     font-size: 3rem;

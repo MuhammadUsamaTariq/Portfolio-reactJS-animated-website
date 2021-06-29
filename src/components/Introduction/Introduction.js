@@ -1,22 +1,27 @@
 import "./attachments/stars.scss";
 import Typed from "react-typed";
 import "./Introduction.css"
-import useWebAnimations from "@wellyshen/use-web-animations";
+import useWebAnimations, { rotateIn } from "@wellyshen/use-web-animations";
 import homeSVG from './attachments/home-main.svg'
 
 const Introduction = () => {
     const frames = [
-        { transform: "translateX(0)" },
-        { transform: "translateY(5px)" },
-        { transform: "translate(5px,5px)" },
-        { transform: "translateX(-5)" },
-        { transform: "translateY(0)" }
+        { transform: "rotate(0deg)" },
+        { transform: "rotate(14deg)" },
+        { transform: "rotate(-8deg)" },
+        { transform: "rotate(14deg)" },
+        { transform: "rotate(-4deg)" },
+        { transform: "rotate(10deg)" },
+        { transform: "rotate(0deg)" },
+        { transform: "rotate(0deg)" },
+        
     ];
     const duration = {
 
-        duration: 5000,
+        duration: 2100,
+        
         iterations: Infinity,
-        direction: "alternate",
+        direction: "normal",
         easing: "ease-in-out",
     }
     const containerDiv = useWebAnimations({ keyframes: frames, animationOptions: duration });
@@ -30,7 +35,7 @@ const Introduction = () => {
                     <div className="display-table">
                         <div className="table-cell">
                             <div id="intro-container" className="container">
-                                <h1 className="intro-title mb-5 ">Hi There! <span className="wave">👋🏻</span><br/>
+                                <h1 className="intro-title mb-5 ">Hi There! <span ref={containerDiv.ref} className="wave">👋🏻</span><br/>
 
                                     I am Usama Tariq</h1>
                                 <h1 className="intro-subtitle">
