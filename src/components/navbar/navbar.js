@@ -47,7 +47,7 @@ function NavBar() {
             className={navColour ? "sticky" : "navbar"}
         >
             <Container>
-                <Navbar.Brand href="/">
+                <Navbar.Brand href="/Portfolio-reactJS-animated-website/">
                     <img src={logo} className="img-fluid logo" alt="brand"  />
                    <Navbar.Text id="navbar-text">
                    Usama Tariq
