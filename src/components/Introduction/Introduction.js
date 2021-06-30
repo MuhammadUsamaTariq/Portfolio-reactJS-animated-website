@@ -43,7 +43,7 @@ const Introduction = () => {
                                     <strong className="text-slider">
                                         <Typed
                                             strings={[
-                                                "Front End Developer",
+                                                "React-Js Developer",
 
                                                 "Software Engineer"
                                             ]}
